@@ -1,4 +1,4 @@
-This code is for paper *Movie Fill-in-the-Blank with Temporal Attention and Description Update*. This paper aims at tackling [Movie Fill-in-the-Blank](https://sites.google.com/site/describingmovies/lsmdc-2016/movie-fill-in-the-blank) task.
+This code is for paper *Movie Fill in the Blank with Adaptive Temporal Attention and Description Update*. This paper aims at tackling [Movie Fill-in-the-Blank](https://sites.google.com/site/describingmovies/lsmdc-2016/movie-fill-in-the-blank) task.
 
 To run the code, you need:
 > * Lasagne 0.2
